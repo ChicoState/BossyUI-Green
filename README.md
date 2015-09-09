@@ -1,7 +1,5 @@
-[![Code Climate](https://codeclimate.com/github/buildcom/BossyUI/badges/gpa.svg)](https://codeclimate.com/github/buildcom/BossyUI)
-=======
 <p align="center">
-<img title="Bossy UI" alt="bossyui" src='bossy_logo.png?raw=true' />
+<img title="Bossy UI" alt="bossyui" src='https://github.com/buildcom/BossyUI/blob/master/bossy_logo.png?raw=true' />
 </p>
 
 # BossyUI Green Team
