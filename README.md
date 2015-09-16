@@ -1,5 +1,5 @@
 <p align="center">
-<img title="Bossy UI" alt="bossyui" src='./bossy_green_logo' />
+<img title="Bossy UI" alt="bossyui" src='./bossy_green_logo.png' />
 </p>
 
 # BossyUI Green Team
