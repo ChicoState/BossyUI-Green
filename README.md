@@ -4,4 +4,4 @@
 
 # BossyUI Green Team
 
-Members: *Adam Penn, Michael Gonsalves, Cory Lotze, Shirley Jin, Alberto Armienta*
+Members: *[Adam Penn](https://github.com/adampenn), [Michael Gonsalves](https://github.com/mymercurialsky), [Cory Lotze](https://github.com/atheri), [Shirley Jin](https://github.com/jx63king), [Alberto Armienta](https://github.com/albertoarmienta)*
